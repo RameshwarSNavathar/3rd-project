@@ -1,4 +1,4 @@
-welcome 💖🙏
+welcome 💖
 
 # project_4_URL_shortner
 # Lithium
